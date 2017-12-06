@@ -31,3 +31,9 @@ Makefile.in
 # http://www.gnu.org/software/texinfo
 
 /texinfo.tex
+
+tmp
+build
+cache
+download
+sstate-cache

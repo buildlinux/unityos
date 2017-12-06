@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/sandesh/unityos.git/tmp
+SSTATE_DIR /home/sandesh/unityos.git/sstate-cache
+NATIVELSBSTRING ubuntu-17.10
